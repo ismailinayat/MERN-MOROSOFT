@@ -1,0 +1,4 @@
+.todo__list--heading {
+    display: flex;
+    justify-content: center;
+}

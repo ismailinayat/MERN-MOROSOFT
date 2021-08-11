@@ -1,0 +1,16 @@
+.todo__container {
+    display: flex;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.todo__list--item {
+    background: lightgrey;
+    padding: 10px;
+
+    margin-right: 20px;
+}
+
+.todo__delete:hover {
+    background: grey;
+}
